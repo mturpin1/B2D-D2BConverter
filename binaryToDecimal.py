@@ -85,6 +85,6 @@ while True:
     wantContinue = input("Would you like to continue(Y/N):   ").lower()
     if wantContinue == "y":
         os.system("cls")
-        b2d()
+        run()
     else:
         exit()
